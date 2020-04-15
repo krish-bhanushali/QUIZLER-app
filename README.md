@@ -12,7 +12,11 @@ This is app based on OOP principles, I have used routing here and all basic pill
 
 # Visual
 
+![App Icon](ic_launcher.png) 
 
+<img src="https://github.com/krish-bhanushali/QUIZLER-app/blob/master/Screenshot_1586965318.png" width="414" height="736" title="Github Logo">  <img src="https://github.com/krish-bhanushali/QUIZLER-app/blob/master/Screenshot_1586965327.png" width="414" height="736" title="Github Logo">
+ 
+<img src="https://github.com/krish-bhanushali/QUIZLER-app/blob/master/Screenshot_1586965338.png" width="414" height="736" title="Github Logo">
 
 ## Getting Started
 
